@@ -1,0 +1,26 @@
+div.container{
+	width: 350px;
+	min-height: 200px;
+	margin: 50px auto;
+	padding: 10px;
+	border: 2px solid black;
+}	
+	p{
+		margin: 15px 0px;
+	}
+	div.description{
+		width: 240px;
+		display: inline-block;
+	}
+	div.user_info{
+		width: 100px;
+		display: inline-block;
+	}
+	p.fancy{
+		font-weight: bold;
+		font-style: italic;
+		text-decoration: underline;
+	}
+	form{
+		margin-left: 280px;
+	}

@@ -1,0 +1,27 @@
+div.container{
+	width: 350px;
+	height: 200px;
+	margin: 50px auto;
+	padding: 10px;
+	border: 2px solid black;
+}	
+	input.text{
+		width: 131px;
+		height: 19px;
+		margin-left: 120px;
+	}
+	input.button{
+		margin-top: 20px;
+		margin-left: 280px;
+	}
+	select.dojo{
+		width: 100px;
+		margin-left: 130px;
+	}
+	select.lang{
+		width: 100px;
+		margin-left: 103px;
+	}
+	textarea{
+		display: block;
+	}
